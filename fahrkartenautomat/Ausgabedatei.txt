@@ -1,0 +1,5 @@
+Automat am Marktplatz
+
+
+Anfangsbestand: 38,00€ (0;0;10;10;10;10;10)
+1. Buchung: Preis:5,60€ / Rückgabe: 2;0;0;2;0 / Gesamtbestand 43,60€ (1;0;8;10;10;8;10)
