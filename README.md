@@ -3,6 +3,7 @@ Der Robuste Fahrkartenautomat
 
 # Inhaltsverzeichnis
 1. [Allgemeine Hintergrund](#general-info)
+2. [Technologien](#technologies)
 
 <a name="general-info"></a>
 ## Allgemeine Hintergrund
